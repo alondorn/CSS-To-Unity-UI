@@ -25,6 +25,7 @@ Notes:
 
 
 CSS code example:
+
 top: 446px;
 left: 864px;
 width: 832px;
