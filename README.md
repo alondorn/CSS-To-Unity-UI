@@ -8,9 +8,9 @@ Instructions:
 
 - Set your screen size according to the design screen size.
 
-- Create a UI object (Image, Text, Button, etc...).
+- Create a UI GameObject (Image, Text, Button, etc...).
 
-- Add the CSSToUnityUI.cs component to object.
+- Add the CSSToUnityUI.cs component to GameObject.
 
 - Paste the CSS code to the CSS text area.
 
