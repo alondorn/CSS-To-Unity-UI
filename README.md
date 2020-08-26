@@ -1,4 +1,4 @@
-# CSS-To-Unity-UI
+# CSS To Unity UI
 
 
 This plugin allows you to use a CSS code to automatically adjust the Unity's UI objects, instead of manually set each parameter in the UI components according to the design sheet.
